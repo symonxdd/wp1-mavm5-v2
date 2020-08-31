@@ -8,37 +8,6 @@
   <br>
 </p>
 
-##### 1. RESTful requests via Fetch API
-- http://localhost:3000/afspraken/
-- http://localhost:3000/afspraken?patient_id=${id}
-
-##### 2. Client-sided validatie
-- src\components\AddAfspraak.vue **Ln 66 -> 104** & **Ln 106 -> 141**
-- src\components\EditAfspraak.vue **Ln 102 -> 142** & **Ln 182 -> 210 (extra laag)**
-
-##### 3. Vue-files
-- ###### src\components
-  - AddAfspraak.vue
-  - Alert.vue
-  - EditAfspraak.vue
-  - EditAfspraak.vue
-  - Heading.vue
-  - Navigation.vue
-
-- ###### src\views
-  - Afspraken.vue
-  - Home.vue
-
-- ###### src
-  - App.vue
-
-##### 4. Vue-router
-- src\App.vue **Ln 6**
-- src\router\index.js
-
-##### 5. Vuex (niet geïmplementeerd, wel plugin geïnstalleerd)
-- src\store\index.js **Ln 6**
-
 ## Serve
 1. `npm install`
 2. `npm install -g @vue/cli`
