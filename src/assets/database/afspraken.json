@@ -1,0 +1,84 @@
+{
+    "afspraken": [
+      {
+        "naam_patient": "Ellemieke Dingemans",
+        "datum": "2020-08-18",
+        "tijdstip": "20:15",
+        "contact_met_coronavirus": "0",
+        "id": 1,
+        "patient_id": 9
+      },
+      {
+        "naam_patient": "Pieter-Jan Berendsen op de Schulenborg",
+        "datum": "2020-10-02",
+        "tijdstip": "13:25",
+        "contact_met_coronavirus": "0",
+        "id": 2,
+        "patient_id": 8
+      },
+      {
+        "naam_patient": "Jan-Willem Bargerink",
+        "datum": "2020-10-28",
+        "tijdstip": "14:35",
+        "contact_met_coronavirus": "0",
+        "id": 3,
+        "patient_id": 7
+      },
+      {
+        "naam_patient": "Lisanne Boonstra",
+        "datum": "2020-11-17",
+        "tijdstip": "14:50",
+        "contact_met_coronavirus": "1",
+        "id": 4,
+        "patient_id": 6
+      },
+      {
+        "naam_patient": "Mirre Keijzers",
+        "datum": "2020-11-27",
+        "tijdstip": "16:55",
+        "contact_met_coronavirus": "0",
+        "id": 5,
+        "patient_id": 5
+      },
+      {
+        "naam_patient": "Mirre Keijzers",
+        "datum": "2020-10-20",
+        "tijdstip": "10:45",
+        "contact_met_coronavirus": "0",
+        "id": 6,
+        "patient_id": 5
+      },
+      {
+        "naam_patient": "Mirre Keijzers",
+        "datum": "2020-10-26",
+        "tijdstip": "11:15",
+        "contact_met_coronavirus": "0",
+        "id": 7,
+        "patient_id": 5
+      },
+      {
+        "naam_patient": "Noud van Dongen",
+        "datum": "2020-10-27",
+        "tijdstip": "12:25",
+        "contact_met_coronavirus": "1",
+        "id": 8,
+        "patient_id": 3
+      },
+      {
+        "naam_patient": "Maaike Schansert",
+        "datum": "2020-11-19",
+        "tijdstip": "14:55",
+        "contact_met_coronavirus": "1",
+        "id": 9,
+        "patient_id": 2
+      },
+      {
+        "naam_patient": "Maaike Schansert",
+        "datum": "2020-12-08",
+        "tijdstip": "16:00",
+        "contact_met_coronavirus": "1",
+        "id": 10,
+        "patient_id": 2
+      }
+    ]
+  }
