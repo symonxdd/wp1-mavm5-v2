@@ -12,9 +12,12 @@
 1. `npm install`
 2. `npm install -g @vue/cli`
 3. `vue upgrade`
-4. `vue-cli-service serve` (script available in package.json)
+4. `npx vue-cli-service serve`
 5. Navigate to the printed link
 
 ## JSON Server
 1. `npm install -g json-server`
-2. `json-server --watch src/assets/database/afspraken.json` (script available in package.json)
+2. `json-server --watch src/assets/database/afspraken.json`
+
+###### npm scripts
+The serve and json-server commands are also available as scripts in `package.json`.
