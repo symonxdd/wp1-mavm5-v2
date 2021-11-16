@@ -9,12 +9,27 @@
 </p>
 
 ## Serve
+### Serve using Vue CLI
 One line: `npm install && npm install -g @vue/cli && vue upgrade && npx vue-cli-service serve`, or:
-1. `npm install`
-2. `npm install -g @vue/cli`
-3. `vue upgrade`
-4. `npx vue-cli-service serve`
+
+1. Install dependencies `npm install`
+2. Install Vue CLI `npm install -g @vue/cli`
+3. Upgrade Vue plugins to latest version `vue upgrade`
+4. Actually serve the app `npx vue-cli-service serve`  
 5. Navigate to the printed link
+
+### Serve using Vue UI
+1. Install dependencies `npm install`
+2. Install Vue CLI `npm install -g @vue/cli`
+3. Upgrade Vue plugins to latest version `vue upgrade`
+4. Open Vue UI `vue ui`
+5. Click 'Import' at the top-right corner
+6. Navigate to project root
+7. Hit 'Import this folder'
+8. Left navigation > Tasks > serve
+9. Click on 'Run task'
+10. Wait for project compilation
+11. Hit 'Open app'
 
 ## JSON Server
 1. `npm install -g json-server`
