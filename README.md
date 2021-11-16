@@ -9,6 +9,7 @@
 </p>
 
 ## Serve
+One line: `npm install && npm install -g @vue/cli && vue upgrade && npx vue-cli-service serve`, or:
 1. `npm install`
 2. `npm install -g @vue/cli`
 3. `vue upgrade`
